@@ -1,0 +1,14 @@
+{
+  "name": "liquid-transitions",
+  "version": "0.1.0",
+  "description": "WebGL image transitions (liquid, ripple, dissolve) in one dependency-free file.",
+  "type": "module",
+  "main": "src/liquid-transitions.js",
+  "module": "src/liquid-transitions.js",
+  "exports": "./src/liquid-transitions.js",
+  "files": ["src", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test" },
+  "keywords": ["webgl", "image-transition", "shader", "gallery", "hover-effect"],
+  "author": "Emin Bilgen",
+  "license": "MIT"
+}
